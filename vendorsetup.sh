@@ -7,6 +7,8 @@
 export LC_ALL=C
 export LANGUAGE=C
 export LANG=C
+export LZMA_RAMDISK_TARGETS=recovery
+export BOARD_RAMDISK_COMPRESSION_LEVEL=9
 export ALLOW_MISSING_DEPENDENCIES=true
 
 
