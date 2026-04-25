@@ -6,8 +6,3 @@
 #
 
 LOCAL_PATH := device/samsung/j2corey20lte
-
-# fastbootd
-PRODUCT_PACKAGES += \
-    android.hardware.fastboot@1.0-impl-mock \
-    fastbootd
