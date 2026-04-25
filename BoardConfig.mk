@@ -89,7 +89,6 @@ TW_INCLUDE_INJECTTWRP := false
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_EXCLUDE_ENCRYPTED_BACKUPS := true
 TW_BRIGHTNESS_PATH := "" # Disables brightness slider logic
-TW_EXCLUDE_APEX := true
 TW_EXCLUDE_LPDUMP := true
 TW_EXCLUDE_RPLOG := true
 TW_INCLUDE_NTFS_3G := false
@@ -101,7 +100,6 @@ TW_EXCLUDE_FUSE_EXFAT := true
 TW_EXCLUDE_GZIP := true
 TW_EXCLUDE_TAR := false
 TW_EXCLUDE_APEX := true
-TW_EXCLUDE_TWRPAPP := true 
 
 # Making the recovery.img smaller
 BOARD_HAS_NO_REAL_SDCARD := true
